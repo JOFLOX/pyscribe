@@ -14,6 +14,7 @@ Generate professional documentation and READMEs for Python projects using AI ðŸ¤
 
 ## ðŸ“‹ Quick Start
 ![0324 (1)](https://github.com/user-attachments/assets/db2db7a4-b068-491b-b929-6c4f8c92fe17)
+![0324 (1)(1)](https://github.com/user-attachments/assets/06d19f09-ad4a-4540-87fe-eb9edc5b1d4a)
 
 ### Installation
 
