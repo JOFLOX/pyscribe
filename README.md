@@ -13,6 +13,7 @@ Generate professional documentation and READMEs for Python projects using AI ðŸ¤
 - **Real-time Editing** - Preview and edit generated documentation before export
 
 ## ðŸ“‹ Quick Start
+![0324 (1)](https://github.com/user-attachments/assets/db2db7a4-b068-491b-b929-6c4f8c92fe17)
 
 ### Installation
 
